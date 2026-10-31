@@ -1,0 +1,18 @@
+---------- Begin Simulation Statistics ----------
+simSeconds                                   0.045000                       # Number of seconds simulated
+simTicks                                     45000000000                    # Number of ticks simulated
+finalTick                                    45000000000                    # Number of ticks from beginning of simulation
+simFreq                                      1000000000000                  # The number of ticks per simulated second
+hostSeconds                                     45.12                       # Real time elapsed on the host
+hostTickRate                                 997000000                      # The number of ticks simulated per host second
+system.cpu.numCycles                          90000000                       # Number of cpu cycles simulated
+system.cpu.itb_walker_cache.overall_hits::total 23850                       # Total ITLB hits
+system.cpu.itb_walker_cache.overall_misses::total 211                       # Total ITLB misses
+system.cpu.itb_walker_cache.overall_hit_ratio::total 0.9912                  # ITLB hit ratio
+system.cpu.itb_walker_cache.overall_miss_rate::total 0.0088                  # ITLB miss rate
+system.cpu.dtb_walker_cache.overall_hits::total 26894                       # Total DTLB hits
+system.cpu.dtb_walker_cache.overall_misses::total 342                       # Total DTLB misses
+system.cpu.dtb_walker_cache.overall_hit_ratio::total 0.9874                  # DTLB hit ratio
+system.cpu.dtb_walker_cache.overall_miss_rate::total 0.0126                  # DTLB miss rate
+system.cpu.dtb_walker_cache.overall_avg_walk_latency::total 28000.0         # Avg page walk latency
+---------- End Simulation Statistics   ----------

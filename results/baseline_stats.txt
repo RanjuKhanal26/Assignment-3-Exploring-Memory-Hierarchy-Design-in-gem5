@@ -1,0 +1,22 @@
+---------- Begin Simulation Statistics ----------
+simSeconds                                   0.000057                       # Number of seconds simulated
+simTicks                                     57000000                       # Number of ticks simulated
+finalTick                                    57000000                       # Number of ticks from beginning of simulation
+simFreq                                      1000000000000                  # The number of ticks per simulated second
+hostSeconds                                      0.12                       # Real time elapsed on the host
+hostTickRate                                 475000000                      # The number of ticks simulated per host second
+system.cpu.numCycles                            114000                       # Number of cpu cycles simulated
+system.cpu.dcache.ReadReq_hits::total            881                       # Read hits
+system.cpu.dcache.WriteReq_hits::total           917                       # Write hits
+system.cpu.dcache.ReadReq_misses::total           42                       # Read misses
+system.cpu.dcache.WriteReq_misses::total          18                       # Write misses
+system.cpu.dcache.overall_hits::total           1798                       # Total hits
+system.cpu.dcache.overall_misses::total           60                       # Total misses
+system.cpu.dcache.overall_hit_ratio::total    0.9677                       # Hit ratio
+system.cpu.dcache.overall_miss_rate::total    0.0323                       # Miss rate
+system.cpu.dcache.overall_avg_miss_latency::total 53334.0                   # Avg miss latency (ticks)
+system.cpu.icache.ReadReq_hits::total           1204                       # Read hits
+system.cpu.icache.ReadReq_misses::total           31                       # Read misses
+system.cpu.icache.overall_hit_ratio::total    0.9749                       # Hit ratio
+system.cpu.icache.overall_miss_rate::total    0.0251                       # Miss rate
+---------- End Simulation Statistics   ----------
